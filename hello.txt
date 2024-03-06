@@ -2,4 +2,5 @@ Hello, Git World!
 This is changes from first branch.
 This is changes from first branch
 This is changes from second branch
-hah test
+test
+
